@@ -1,0 +1,32 @@
+{
+  "humidity": {
+    "name": "Air Humidity",
+    "unit": "%",
+    "lowerThreshold": 50.0,
+    "upperThreshold": 70.0
+  },
+  "temperature": {
+    "name": "Air Temperature",
+    "unit": "°C",
+    "lowerThreshold": 18.0,
+    "upperThreshold": 28.0
+  },
+  "moisture": {
+    "name": "Soil Moisture",
+    "unit": "%",
+    "lowerThreshold": 40.0,
+    "upperThreshold": 50.0
+  },
+  "pH": {
+    "name": "Soil pH",
+    "unit": "pH",
+    "lowerThreshold": 5.5,
+    "upperThreshold": 7.5
+  },
+  "salinity": {
+    "name": "Soil Salinity",
+    "unit": "mS/cm",
+    "lowerThreshold": 0.0,
+    "upperThreshold": 2.5
+  }
+}
